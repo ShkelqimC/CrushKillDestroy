@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrushKillDestroy", "CrushKillDestroy\CrushKillDestroy.csproj", "{B576AEAD-B8CD-4AAB-AC8B-4E1AAC3DBD1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrushKillDestroyLibraryTests", "CrushKillDestroyLibraryTests\CrushKillDestroyLibraryTests.csproj", "{5AFB7886-C8EB-4CB4-9AF9-DF500B76F724}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B576AEAD-B8CD-4AAB-AC8B-4E1AAC3DBD1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B576AEAD-B8CD-4AAB-AC8B-4E1AAC3DBD1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B576AEAD-B8CD-4AAB-AC8B-4E1AAC3DBD1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B576AEAD-B8CD-4AAB-AC8B-4E1AAC3DBD1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AFB7886-C8EB-4CB4-9AF9-DF500B76F724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AFB7886-C8EB-4CB4-9AF9-DF500B76F724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AFB7886-C8EB-4CB4-9AF9-DF500B76F724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AFB7886-C8EB-4CB4-9AF9-DF500B76F724}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5122521-F930-49F5-AD12-AD1BE94A1CDC}
+	EndGlobalSection
+EndGlobal
